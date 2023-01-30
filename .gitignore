@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+backend/.DS-store
+backend/pet_shelter/pet_shelter/__pycache__/
+.env
+.mypy_cache/
